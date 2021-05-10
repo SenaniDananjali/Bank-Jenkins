@@ -1,0 +1,17 @@
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.deps.json
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.runtimeconfig.json
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.runtimeconfig.dev.json
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.dll
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.pdb
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\Bank.dll
+G:\Jenkins\Bank\BankTests\bin\Debug\netcoreapp2.2\Bank.pdb
+G:\Jenkins\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csprojAssemblyReference.cache
+G:\Jenkins\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csproj.CoreCompileInputs.cache
+G:\Jenkins\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.AssemblyInfoInputs.cache
+G:\Jenkins\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.AssemblyInfo.cs
+G:\Jenkins\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csproj.CopyComplete
+G:\Jenkins\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.dll
+G:\Jenkins\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.pdb

@@ -1,0 +1,11 @@
+G:\Jenkins\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.deps.json
+G:\Jenkins\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.json
+G:\Jenkins\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.dev.json
+G:\Jenkins\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.dll
+G:\Jenkins\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.pdb
+G:\Jenkins\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.csprojAssemblyReference.cache
+G:\Jenkins\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.csproj.CoreCompileInputs.cache
+G:\Jenkins\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfoInputs.cache
+G:\Jenkins\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfo.cs
+G:\Jenkins\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.dll
+G:\Jenkins\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.pdb
